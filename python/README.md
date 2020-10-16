@@ -17,6 +17,8 @@ The easiest way for myself ( JM ) to learn a programming language like Python is
 
 https://www.learnbyexample.org/
 
+If you're more of an interactive or visual or aural learner, you might want to catch lessons about learning Python on **ITECH**.
+
 ## **What does 'interpreted language' mean?**
 An intrepreted language usually makes use of an interpreter which means it does not need to compile to machine code on runtime to deploy its code. For your startup it means it'll probably be better for prototyping really fast but is prone to errors and slowdowns further down the road if you aren't mindful.
 
