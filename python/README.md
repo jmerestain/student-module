@@ -1,5 +1,5 @@
 # **Python - KINDA noob Style**
-Read this page or some shit to know where and when to use Python. **THIS IS NOT A REPOSITORY FOR TEACHING PYTHON. THERE'S WAY TOO MUCH SHIT ON THE INTERNET FOR ME TO DO THAT ALREADY**. Instead I'm showing some real-world examples where Python may be used in a **startup environment**.
+Read this page or some shit to know where and when to use Python. **THIS IS NOT A REPOSITORY FOR TEACHING PYTHON. THERE'S WAY TOO MUCH SHIT ON THE INTERNET FOR ME TO DO THAT ALREADY**. Instead I'm showing some real-world examples and guides where Python may be used in a **startup environment**.
 
 **Download Python here: https://python.org**
 
